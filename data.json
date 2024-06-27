@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "test-data",
+      "author": "kunal"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "homes": [
+    {
+      "id": 1,
+      "address": "123 Main St, Anytown, USA",
+      "lat": "40.7128",
+      "long": "-74.0060",
+      "description": "This is a sample description for the place.",
+      "image": "https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg"
+    },
+    {
+      "id": 2,
+      "address": "456 Elm St, Othertown, USA",
+      "lat": "12.919995619672243",
+      "long": "77.63730770082593",
+      "description": "Another sample description for another place.",
+      "image": "https://www.kbhome.com/globalassets/images/community-images/texas/dallas-fort-worth/princeton-estates/thumbnail/kbdfw_princetonestates_8712-exterior.jpg"
+    },
+    {
+      "id": 3,
+      "address": "789 Oak Ave, Anothercity, USA",
+      "lat": "51.5074",
+      "long": "-0.1278",
+      "description": "Yet another sample description.",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 4,
+      "address": "101 Pine Blvd, Somewhereville, USA",
+      "lat": "39.9526",
+      "long": "-75.1652",
+      "description": "Description for a new place.",
+      "image": "https://thearchitectsdiary.com/wp-content/uploads/2024/01/Modern-Mansion-Design-3-9.webp"
+    },
+    {
+      "id": 5,
+      "address": "777 Maple Ln, Yourtown, USA",
+      "lat": "37.7749",
+      "long": "-122.4194",
+      "description": "Description for another new place.",
+      "image": "https://i.pinimg.com/originals/a5/d6/68/a5d6689d985d7b1bf0d8d6ce0065a5da.jpg"
+    },
+    {
+      "id": 6,
+      "address": "202 Cedar Ave, Anotherplace, USA",
+      "lat": "35.6895",
+      "long": "139.6917",
+      "description": "Description for a place in a different city.",
+      "image": "https://64.media.tumblr.com/9ecc9642a7b7b5f60c5e17287cf36ed4/9330e0e5442b1ce0-08/s1280x1920/9402ce5394cff90ddbb671c8e4ce9cdd15235649.jpg"
+    },
+    {
+      "id": 7,
+      "address": "404 Oak St, Newtown, USA",
+      "lat": "41.8781",
+      "long": "-87.6298",
+      "description": "Description for a place with a different address.",
+      "image": "https://media.newhomeinc.com/348/2023/2/24/Morehead-Low-Country-1.jpg?width=1920&ois=5dafa51&fit=bounds&height=1280"
+    },
+    {
+      "id": 8,
+      "address": "555 Pine Ave, Yourcity, USA",
+      "lat": "45.5051",
+      "long": "-122.6750",
+      "description": "Description for a new location.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnocrPNl9AU8bGP_rFIVmO4VcriOpKdjOaLVciPfrmDcALNYraBY37JRGW8Cz5ei1Yko0&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "address": "707 Elm St, Townsville, USA",
+      "lat": "33.7490",
+      "long": "-84.3880",
+      "description": "Description for a place in another town.",
+      "image": "https://assets.architecturaldigest.in/photos/64904022505cb5179481b321/16:9/w_1615,h_908,c_limit/Untitled%20design%20(24).png"
+    },
+    {
+      "id": 10,
+      "address": "888 Maple Ave, Anothertown, USA",
+      "lat": "40.7128",
+      "long": "-74.0060",
+      "description": "Description for a place in a different town.",
+      "image": "https://www.architectandinteriorsindia.com/cloud/2023/08/21/cO7sxodG-1-1200x654.jpg"
+    }
+  ]
+}
